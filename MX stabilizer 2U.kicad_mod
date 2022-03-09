@@ -1,6 +1,6 @@
 (footprint "MX stabilizer 2U" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6227F5EA)
+  (tedit 6227F968)
   (descr "Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u")
   (tags "Cherry MX key stabilizer 2u 2.25u 2.5u 2.75u")
   (attr exclude_from_pos_files exclude_from_bom)
@@ -12,12 +12,24 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp af53036d-ee7e-403a-960a-8c4d62b707f6)
   )
+  (fp_line (start -19 9.5) (end -19 -9.5) (layer "Dwgs.User") (width 0.15) (tstamp 014117ef-db66-4849-a188-7b1e9497c6b7))
   (fp_line (start 0 2) (end 0 -2) (layer "Dwgs.User") (width 0.1) (tstamp 0703ea74-b4a4-4d51-9a1c-68cf4066829a))
+  (fp_line (start 19 -9.5) (end 19 9.5) (layer "Dwgs.User") (width 0.15) (tstamp 42debff9-8933-44aa-9f59-69dcaf6ea4eb))
+  (fp_line (start -19 -9.5) (end 19 -9.5) (layer "Dwgs.User") (width 0.15) (tstamp 8e5d7f2f-2271-499f-bb1d-6541cdd318b9))
+  (fp_line (start 19 9.5) (end -19 9.5) (layer "Dwgs.User") (width 0.15) (tstamp a25a2b2d-ed41-4dad-9481-5999a83606a5))
   (fp_line (start -2 0) (end 2 0) (layer "Dwgs.User") (width 0.1) (tstamp c88816f0-96fc-4148-80b4-0bff95e0c97c))
   (pad "" np_thru_hole circle (at -11.938 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp 23ed305d-61b1-45b2-90d2-411bdb1260dd))
   (pad "" np_thru_hole circle (at 11.938 8.255) (size 3.9878 3.9878) (drill 3.9878) (layers *.Cu *.Mask) (tstamp 50c7cc4e-bcff-4d84-82db-c5358cfcf9d2))
   (pad "" np_thru_hole circle (at 11.938 -6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask) (tstamp 8823b984-a966-44e5-98f1-65e40918b6c9))
   (pad "" np_thru_hole circle (at -11.938 -6.985) (size 3.048 3.048) (drill 3.048) (layers *.Cu *.Mask) (tstamp f9459dc0-cbf3-4f16-b08a-c76821491086))
+  (group "" (id 769c6720-fa66-413f-9468-a73f9122dc4f)
+    (members
+      014117ef-db66-4849-a188-7b1e9497c6b7
+      42debff9-8933-44aa-9f59-69dcaf6ea4eb
+      8e5d7f2f-2271-499f-bb1d-6541cdd318b9
+      a25a2b2d-ed41-4dad-9481-5999a83606a5
+    )
+  )
   (model "${KIPRJMOD}/Switch_Keyboard/packages3d/Mounting_Keyboard_Stabilizer.3dshapes/Stabilizer_Cherry_MX_2u.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

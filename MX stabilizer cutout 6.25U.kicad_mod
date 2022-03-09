@@ -1,6 +1,6 @@
 (footprint "MX stabilizer cutout 6.25U" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 6227F554)
+  (tedit 6227F8A3)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 92f68934-a3d3-4b65-ad2d-865f1183a136)
@@ -49,4 +49,54 @@
   (fp_line (start 7 2.3) (end 46.625 2.3) (layer "Edge.Cuts") (width 0.15) (tstamp f5d505be-d831-475a-9652-cba0a905fda5))
   (fp_line (start 7 -2.3) (end 7 -7) (layer "Edge.Cuts") (width 0.15) (tstamp f8dd03d3-ffd8-4002-be96-9cbe1a56a832))
   (fp_line (start 7 7) (end 7 2.3) (layer "Edge.Cuts") (width 0.15) (tstamp fffee378-4bcd-4164-8dc1-d1fec9d52bc0))
+  (group "" (id 11580349-9dcf-4c5d-a9ae-7c8d1f09202b)
+    (members
+      3e76bbfc-510b-4cb1-80cb-1126992adb79
+      6e6bc4b9-1720-4aa8-90a4-515997f1fa13
+      e82deae0-24b4-431d-8db0-2e637ac75b66
+      fd47e052-1111-4913-8dab-f22b5500ef12
+    )
+  )
+  (group "" (id 533228bf-e952-4177-b1dd-c3b547904854)
+    (members
+      0661097d-41e8-4e03-89c7-046b48f5ed78
+      11ce5577-1a9c-4509-ad73-36ecac51ebd4
+      1bb9d0d8-ec2f-4a22-86a8-b402d251da80
+      1f4d3e88-52ac-465c-bf62-c9300ea6939c
+      239cdde4-4f28-431b-8e37-0b09d73adea1
+      245e5326-40c9-4b16-86a9-0ea96fff608c
+      36e6749b-6c74-49a2-b784-74875dc98474
+      37322642-a9e8-4b7a-994e-382297571ca4
+      377d817f-c848-48eb-ac29-2aeb5d9261ac
+      3abb5fb7-5150-4767-af25-46bb7009f788
+      4280fd48-ab79-4594-b4bb-1546eb8e65b1
+      4c307a64-68d0-4963-89a3-b91f5b6a89ea
+      4cd83b2c-a4df-4d06-8018-0caf7b1a4056
+      502f00aa-5ed9-465a-8f44-348ad78d8c9d
+      513d4cfb-e298-45c3-a15e-114c54b1f77d
+      785a2a63-ec0c-43e5-b36e-aade329125f1
+      7bba4360-0b90-4aaf-9fed-4f7961efe14b
+      83d128b3-4d7d-4939-a14f-fbd4425027d2
+      844ace0c-697d-4bdb-b1b5-9b28417f792e
+      879eb54b-52f5-4876-b65a-8c7341530e7f
+      8e6e5e6b-df45-4e8c-b399-8f1d594e67d6
+      901745ab-a405-4c16-aaaf-6c572b281f94
+      92f68934-a3d3-4b65-ad2d-865f1183a136
+      942e34a1-4a9e-4ac7-a29d-58b745562997
+      a49e8f5a-d9c7-4499-8a97-ad9bbde46f18
+      a58ccf97-66c7-4f89-8dd1-c38bff50c36d
+      b20aa285-2059-42a9-aa58-c93b2b279b21
+      baa3a57e-8a11-44cd-a968-48d8875fd642
+      d347fb6c-b35c-411e-8b45-d25ce1ec72fd
+      d82c7372-b309-465a-a183-58a5c58fb2d4
+      db9bacf0-1caf-465b-a79c-08bef739d5be
+      e7119de5-dd25-4187-928a-3c867f85384a
+      ea2de7b8-7885-4f42-bdb9-b5101888a4e3
+      f11b25ae-5c7d-47a1-9b4f-b8ba5508932c
+      f29b1012-49f2-4922-aa40-70f67badce05
+      f5d505be-d831-475a-9652-cba0a905fda5
+      f8dd03d3-ffd8-4002-be96-9cbe1a56a832
+      fffee378-4bcd-4164-8dc1-d1fec9d52bc0
+    )
+  )
 )
